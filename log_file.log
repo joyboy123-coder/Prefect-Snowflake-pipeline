@@ -1,0 +1,361 @@
+2025-06-28 15:01:13,946 - INFO - Extracting the Data :>
+2025-06-28 15:01:14,010 - INFO - Extraction Successful
+2025-06-28 15:01:14,010 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:01:14,010 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:01:14,054 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:01:14,195 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:01:14,264 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:01:14,353 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:01:14,507 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:01:14,654 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:01:14,709 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:01:14,747 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:01:14,747 - INFO - ----------------------------------------------------------------
+2025-06-28 15:01:14,747 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:01:14,747 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:01:14,748 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:01:14,748 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:01:14,748 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:01:15,514 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:01:16,249 - INFO - \U0001f6a8 Table is empty or missing — resetting offset to 0.
+2025-06-28 15:01:16,250 - INFO - \U0001f4e5 Uploading rows 0 to 20000
+2025-06-28 15:01:18,763 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:01:36,432 - INFO - \u2705 Uploaded rows 0 to 20000
+2025-06-28 15:01:36,432 - INFO - closed
+2025-06-28 15:01:38,346 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:01:40,527 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:01:40,528 - INFO - \u2705 Data load complete.
+2025-06-28 15:01:40,528 - INFO - --------------------------------------------
+
+2025-06-28 15:01:40,528 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:02:30,286 - INFO - Extracting the Data :>
+2025-06-28 15:02:30,351 - INFO - Extraction Successful
+2025-06-28 15:02:30,351 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:02:30,352 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:02:30,395 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:02:30,540 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:02:30,626 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:02:30,710 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:02:30,878 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:02:30,959 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:02:30,989 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:02:31,019 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:02:31,019 - INFO - ----------------------------------------------------------------
+2025-06-28 15:02:31,019 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:02:31,019 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:02:31,020 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:02:31,020 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:02:31,020 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:02:33,652 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:02:37,153 - INFO - \U0001f4e5 Uploading rows 20000 to 40000
+2025-06-28 15:02:39,769 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:03:03,250 - INFO - \u2705 Uploaded rows 20000 to 40000
+2025-06-28 15:03:03,250 - INFO - closed
+2025-06-28 15:03:04,373 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:03:06,221 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:03:06,221 - INFO - \u2705 Data load complete.
+2025-06-28 15:03:06,221 - INFO - --------------------------------------------
+
+2025-06-28 15:03:06,221 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:04:10,386 - INFO - Extracting the Data :>
+2025-06-28 15:04:10,507 - INFO - Extraction Successful
+2025-06-28 15:04:10,508 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:04:10,509 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:04:10,614 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:04:10,878 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:04:11,013 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:04:11,180 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:04:11,541 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:04:11,755 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:04:11,854 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:04:11,931 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:04:11,931 - INFO - ----------------------------------------------------------------
+2025-06-28 15:04:11,931 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:04:11,932 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:04:11,933 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:04:11,933 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:04:11,933 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:04:17,488 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:04:23,426 - INFO - \U0001f4e5 Uploading rows 40000 to 60000
+2025-06-28 15:04:30,171 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:04:42,350 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', TimeoutError())': /y0e31000-s/stages/01fff0c4-9614-4994-8f49-e95bc791a91a/file0.txt
+2025-06-28 15:04:47,844 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:05:22,790 - INFO - \u2705 Uploaded rows 40000 to 60000
+2025-06-28 15:05:22,790 - INFO - closed
+2025-06-28 15:05:23,580 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:05:24,428 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:05:24,428 - INFO - \u2705 Data load complete.
+2025-06-28 15:05:24,428 - INFO - --------------------------------------------
+
+2025-06-28 15:05:24,428 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:06:11,640 - INFO - Extracting the Data :>
+2025-06-28 15:06:11,698 - INFO - Extraction Successful
+2025-06-28 15:06:11,698 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:06:11,699 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:06:11,744 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:06:11,888 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:06:11,998 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:06:12,106 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:06:12,354 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:06:12,442 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:06:12,474 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:06:12,510 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:06:12,511 - INFO - ----------------------------------------------------------------
+2025-06-28 15:06:12,511 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:06:12,511 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:06:12,511 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:06:12,511 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:06:12,511 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:06:13,774 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:06:14,683 - INFO - \U0001f4e5 Uploading rows 60000 to 80000
+2025-06-28 15:06:16,981 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:06:32,279 - INFO - \u2705 Uploaded rows 60000 to 80000
+2025-06-28 15:06:32,279 - INFO - closed
+2025-06-28 15:06:32,636 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:06:32,937 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:06:32,937 - INFO - \u2705 Data load complete.
+2025-06-28 15:06:32,937 - INFO - --------------------------------------------
+
+2025-06-28 15:06:32,937 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:07:31,876 - INFO - Extracting the Data :>
+2025-06-28 15:07:31,978 - INFO - Extraction Successful
+2025-06-28 15:07:31,978 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:07:31,979 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:07:32,026 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:07:32,228 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:07:32,358 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:07:32,478 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:07:32,721 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:07:32,828 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:07:32,870 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:07:32,911 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:07:32,911 - INFO - ----------------------------------------------------------------
+2025-06-28 15:07:32,911 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:07:32,911 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:07:32,911 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:07:32,912 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:07:32,912 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:07:34,058 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:07:36,171 - INFO - \U0001f4e5 Uploading rows 80000 to 99990
+2025-06-28 15:07:43,325 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:08:00,417 - INFO - \u2705 Uploaded rows 80000 to 99990
+2025-06-28 15:08:00,418 - INFO - closed
+2025-06-28 15:08:05,249 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:08:11,804 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:08:11,804 - INFO - \u2705 Data load complete.
+2025-06-28 15:08:11,804 - INFO - --------------------------------------------
+
+2025-06-28 15:08:11,804 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:08:59,640 - INFO - Extracting the Data :>
+2025-06-28 15:08:59,701 - INFO - Extraction Successful
+2025-06-28 15:08:59,701 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:08:59,701 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:08:59,748 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:08:59,937 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:09:00,028 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:09:00,108 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:09:00,301 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:09:00,399 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:09:00,431 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:09:00,480 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:09:00,480 - INFO - ----------------------------------------------------------------
+2025-06-28 15:09:00,481 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:09:00,481 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:09:00,482 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:09:00,482 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:09:00,482 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:09:13,526 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:09:27,077 - INFO - \u2705 All data already uploaded. Nothing to do.
+2025-06-28 15:09:27,077 - INFO - closed
+2025-06-28 15:09:31,345 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:09:33,872 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:09:33,872 - INFO - \u2705 Data load complete.
+2025-06-28 15:09:33,872 - INFO - --------------------------------------------
+
+2025-06-28 15:09:33,872 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:10:20,231 - INFO - Extracting the Data :>
+2025-06-28 15:10:20,300 - INFO - Extraction Successful
+2025-06-28 15:10:20,300 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:10:20,300 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:10:20,349 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:10:20,515 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:10:20,638 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:10:20,773 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:10:20,931 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:10:21,008 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:10:21,038 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:10:21,068 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:10:21,068 - INFO - ----------------------------------------------------------------
+2025-06-28 15:10:21,069 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:10:21,069 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:10:21,069 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:10:21,069 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:10:21,069 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:10:24,986 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:10:27,821 - INFO - \u2705 All data already uploaded. Nothing to do.
+2025-06-28 15:10:27,821 - INFO - closed
+2025-06-28 15:10:29,493 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:10:31,142 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:10:31,143 - INFO - \u2705 Data load complete.
+2025-06-28 15:10:31,143 - INFO - --------------------------------------------
+
+2025-06-28 15:10:31,143 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:13:11,414 - INFO - Extracting the Data :>
+2025-06-28 15:13:11,500 - INFO - Extraction Successful
+2025-06-28 15:13:11,500 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:13:11,501 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:13:11,558 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:13:11,720 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:13:11,819 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:13:11,913 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:13:12,076 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:13:12,156 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:13:12,186 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:13:12,220 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:13:12,220 - INFO - ----------------------------------------------------------------
+2025-06-28 15:13:12,220 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:13:12,221 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:13:12,221 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:13:12,221 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:13:12,221 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:13:14,987 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:13:15,553 - INFO - \u2705 All data already uploaded. Nothing to do.
+2025-06-28 15:13:15,553 - INFO - closed
+2025-06-28 15:13:15,705 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:13:15,913 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:13:15,914 - INFO - \u2705 Data load complete.
+2025-06-28 15:13:15,914 - INFO - --------------------------------------------
+
+2025-06-28 15:13:15,914 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:13:54,641 - INFO - Extracting the Data :>
+2025-06-28 15:13:54,695 - INFO - Extraction Successful
+2025-06-28 15:13:54,695 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:13:54,695 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:13:54,738 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:13:54,881 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:13:54,952 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:13:55,037 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:13:55,192 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:13:55,271 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:13:55,302 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:13:55,329 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:13:55,329 - INFO - ----------------------------------------------------------------
+2025-06-28 15:13:55,329 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:13:55,329 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:13:55,330 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:13:55,330 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:13:55,330 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:13:57,142 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:13:58,774 - INFO - \U0001f6a8 Table is empty or missing — resetting offset to 0.
+2025-06-28 15:13:58,775 - INFO - \U0001f4e5 Uploading rows 0 to 20000
+2025-06-28 15:14:01,212 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:14:32,599 - INFO - \u2705 Uploaded rows 0 to 20000
+2025-06-28 15:14:32,599 - INFO - closed
+2025-06-28 15:14:33,518 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:14:34,460 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:14:34,461 - INFO - \u2705 Data load complete.
+2025-06-28 15:14:34,461 - INFO - --------------------------------------------
+
+2025-06-28 15:14:34,461 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:17:29,762 - INFO - Extracting the Data :>
+2025-06-28 15:17:29,821 - INFO - Extraction Successful
+2025-06-28 15:17:29,822 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:17:29,822 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:17:29,860 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:17:30,011 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:17:30,082 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:17:30,167 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:17:30,328 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:17:30,407 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:17:30,439 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:17:30,472 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:17:30,472 - INFO - ----------------------------------------------------------------
+2025-06-28 15:17:30,472 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:17:30,472 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:17:30,472 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:17:30,472 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:17:30,473 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:17:31,782 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:17:32,549 - INFO - \U0001f6a8 Table is empty or missing — resetting offset to 0.
+2025-06-28 15:17:32,549 - INFO - \U0001f4e5 Uploading rows 0 to 20000
+2025-06-28 15:17:33,424 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:17:49,380 - INFO - \u2705 Uploaded rows 0 to 20000
+2025-06-28 15:17:49,380 - INFO - closed
+2025-06-28 15:17:50,113 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:17:50,872 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:17:50,872 - INFO - \u2705 Data load complete.
+2025-06-28 15:17:50,872 - INFO - --------------------------------------------
+
+2025-06-28 15:17:50,872 - INFO - ETL Pipeline Finished Successfully :>
+2025-06-28 15:19:04,320 - INFO - Extracting the Data :>
+2025-06-28 15:19:04,416 - INFO - Extraction Successful
+2025-06-28 15:19:04,416 - INFO - Started Data Cleaning and transformations...
+
+2025-06-28 15:19:04,417 - INFO - Removing Duplicate Rows :>
+2025-06-28 15:19:04,474 - INFO - Cleaning NAME Column... :>
+2025-06-28 15:19:04,657 - INFO - Cleaning EMAIL Column... :>
+2025-06-28 15:19:04,765 - INFO - Cleaning AGE Column... :>
+2025-06-28 15:19:04,895 - INFO - Cleaning COUNTRY Column... :>
+2025-06-28 15:19:05,132 - INFO - Cleaning SALARY Column... :>
+2025-06-28 15:19:05,235 - INFO - Cleaning JOIN_DATE Column... :>
+2025-06-28 15:19:05,286 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-06-28 15:19:05,321 - INFO - Transformation and Data Cleaning Successful... :>
+2025-06-28 15:19:05,321 - INFO - ----------------------------------------------------------------
+2025-06-28 15:19:05,321 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-06-28 15:19:05,322 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-06-28 15:19:05,323 - INFO - Connecting to GLOBAL Snowflake domain
+2025-06-28 15:19:05,323 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-06-28 15:19:05,323 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:19:06,315 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:19:07,043 - INFO - \U0001f4e5 Uploading rows 20000 to 40000
+2025-06-28 15:19:08,304 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-06-28 15:19:22,625 - INFO - \u2705 Uploaded rows 20000 to 40000
+2025-06-28 15:19:22,625 - INFO - closed
+2025-06-28 15:19:24,063 - INFO - No async queries seem to be running, deleting session
+2025-06-28 15:19:24,995 - INFO - \U0001f512 Connection closed.
+2025-06-28 15:19:24,996 - INFO - \u2705 Data load complete.
+2025-06-28 15:19:24,996 - INFO - --------------------------------------------
+
+2025-06-28 15:19:24,996 - INFO - ETL Pipeline Finished Successfully :>
+2025-07-13 21:35:49,658 - INFO - Extracting the Data :>
+2025-07-13 21:35:49,714 - INFO - Extraction Successful
+2025-07-13 21:35:49,714 - INFO - ---------------------------------------
+
+2025-07-13 21:35:49,714 - INFO - Started Data Cleaning and transformations...
+
+2025-07-13 21:35:49,715 - INFO - Removing Duplicate Rows :>
+2025-07-13 21:35:49,753 - INFO - Cleaning NAME Column... :>
+2025-07-13 21:35:49,882 - INFO - Cleaning EMAIL Column... :>
+2025-07-13 21:35:49,948 - INFO - Cleaning AGE Column... :>
+2025-07-13 21:35:50,025 - INFO - Cleaning COUNTRY Column... :>
+2025-07-13 21:35:50,172 - INFO - Cleaning SALARY Column... :>
+2025-07-13 21:35:50,243 - INFO - Cleaning JOIN_DATE Column... :>
+2025-07-13 21:35:50,271 - INFO - Cleaning IS_ACTIVE Column... :>
+2025-07-13 21:35:50,300 - INFO - Transformation and Data Cleaning Successful... :>
+2025-07-13 21:35:50,300 - INFO - ----------------------------------------------------------------
+2025-07-13 21:35:50,300 - INFO - Connecting to Snowflake: VYUGXPY-KH49534
+2025-07-13 21:35:50,301 - INFO - Snowflake Connector for Python Version: 3.14.0, Python Version: 3.10.0, Platform: Windows-10-10.0.26100-SP0
+2025-07-13 21:35:50,301 - INFO - Connecting to GLOBAL Snowflake domain
+2025-07-13 21:35:50,301 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-07-13 21:35:50,301 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-07-13 21:35:50,828 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-07-13 21:35:51,879 - INFO - \U0001f4e5 Uploading rows 40000 to 60000
+2025-07-13 21:35:53,123 - INFO - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-07-13 21:36:01,630 - INFO - \u2705 Uploaded rows 40000 to 60000
+2025-07-13 21:36:01,631 - INFO - closed
+2025-07-13 21:36:01,762 - INFO - No async queries seem to be running, deleting session
+2025-07-13 21:36:01,894 - INFO - \U0001f512 Connection closed.
+2025-07-13 21:36:01,894 - INFO - \u2705 Data load complete.
+2025-07-13 21:36:01,894 - INFO - --------------------------------------------
+
+2025-07-13 21:36:01,894 - INFO - ETL Pipeline Finished Successfully :>
